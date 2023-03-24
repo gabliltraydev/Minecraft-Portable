@@ -24,4 +24,7 @@ Pour voir à quoi ça ressemble une fois toutes les libraries mises à la suite,
 - Au '--assetIndex version', rempalcez le version par la version de votre jeu **⚠ sans l'extention de version ⚠** (par exemple : "--assetIndex 1.12")
 - Et voilà, votre version personnalisée vanilla en dessous de la 1.17 est prêt, vous n'aver plus quàa retourner sur le tuto du launcher afin de l'intégrer à votre launcher !
 
+## 2. Si vous voulez du moddé en dessous de la 1.17 
+
+
  

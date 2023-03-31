@@ -31,8 +31,6 @@ Pour voir à quoi ça ressemble une fois toutes les libraries mises à la suite,
 - Cliquez sur Download ZIP
 - Extrayez le .zip
 - Ouvrez le et mettez les mods qui vous intéresse dans le dossier mods
-- Sélectionnez tous les fichers puis faites Clic-Droit --> Envoyer Vers --> Dossier Compressé
-- Nommez le dossier "game.zip" (IMPORTANT, ne le nommez pas autrement au quel cas ça ne fonctionnera pas
 - Et voilà, votre version personnalisée forge est prête, vous n'aver plus qu'a retourner sur le tuto du launcher afin de l'intégrer à votre launcher !
 
 

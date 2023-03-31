@@ -25,6 +25,17 @@ Pour voir à quoi ça ressemble une fois toutes les libraries mises à la suite,
 - Et voilà, votre version personnalisée vanilla en dessous de la 1.17 est prêt, vous n'aver plus qu'a retourner sur le tuto du launcher afin de l'intégrer à votre launcher !
 
 ## 2. Si vous voulez du moddé en dessous de la 1.17 
+### Si votre version moddée est déjà disponible (par exemple Forge 1.12.2)
+- Téléchargez la version qui vous intéresse (par exemple pour la 1.12.2, allez dans le repo [Minecraft-Portable](https://github.com/gabliltraydev/Minecraft-Portable) puis cliquez sur Forge 1.12.2
+- Cliquez sur le bouton "Code" 
+- Cliquez sur Download ZIP
+- Extrayez le .zip
+- Ouvrez le et mettez les mods qui vous intéresse dans le dossier mods
+- Sélectionnez tous les fichers puis faites Clic-Droit --> Envoyer Vers --> Dossier Compressé
+- Nommez le dossier "gamz.zip" (IMPORTANT, ne le nommez pas autrement au quel cas ça ne fonctionnera pas
+- Et voilà, votre version personnalisée forge est prête, vous n'aver plus qu'a retourner sur le tuto du launcher afin de l'intégrer à votre launcher !
+
+
 
 
  
